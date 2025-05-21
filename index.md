@@ -2,122 +2,19 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# Overview
 
-[Link to another page](./another-page.html).
+The work demonstrated here includes projects and tasks I've done, including:
+* Implementation, penetration testing, and hardening of Active Directory Networks
+* Configuration of Cisco switches, routers, and firewall appliances
+* Simulation design (tabletop exercises) for incident response and disaster recovery procedures
+* Configuration and use of SIEM solutions
+* Managing databases using postgresql and mysql
+* Provisioning Linux servers as a "domain controller"
+* More to be added as I expand my work experience and skills
 
-There should be whitespace between paragraphs.
+# About me
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+My name is Xander Rosado-Sessa. I'm passionate about the IT/Cybersecurity industry and continuously expanding my knowledge base and skills as a professional in this field. I graduated from Western Governor's University with a Bachelor's in Cybersecurity and Information Assurance, and I plan to continue my education with a Master's degree. The certifications I hold include CompTIA ITF+, A+, Network+, Security+, Server+, CySA+, Linux+, PenTest+, Cloud Essentials+, Cloud+, CASP/SecurityX, Project+, Cisco CCNA, ETA ITS, ITIL 4 Foundation, and Associate of ISC2. 
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Above all else, I practice my skills by performing hands on activies. Experience varies for everyone, but it is undoubtedly extremely important to practice the information you learn in this field, not relying only on knowledge and concepts. Likewise, it is very important to have real knowledge on what you do, to know what something truly does at a fundamental level, and to understand why and how it does what it does. I try to bring the best of both worlds, as I believe that's how true mastery of the subject is ascertained. I've went through several years of technical training before pursuing my bachelor's degree, as well as worked in help desk roles and competed nationally for Cybersecurity. Through these opportunities, I've been able to learn and share the skills I present on this page.  

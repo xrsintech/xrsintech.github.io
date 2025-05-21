@@ -10,8 +10,8 @@ The work demonstrated here includes projects and tasks I've done, including:
 * Simulation design (tabletop exercises) for incident response and disaster recovery procedures
 * Configuration and use of SIEM solutions
 * Managing databases using postgresql and mysql
-* Provisioning Linux servers as a "domain controller"
-* More to be added as I expand my work experience and skills
+* Provisioning Linux servers as a domain controller
+* And more!
 
 # About me
 

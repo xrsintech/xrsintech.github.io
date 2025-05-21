@@ -1,5 +1,8 @@
-title: Hacker theme
-description: Hacker is a theme for GitHub Pages.
+title: Welcome to xrsintech
+description: Hello! My name is Xander Rosado-Sessa. I have created this site to demonstrate some of the projects I have worked on
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-hacker
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme
